@@ -26,11 +26,25 @@ Aspiring Web Developer | DSA Learner | Passionate Coder 🚀
 
 ## 🧠 Coding Profiles
 
+
 <p align="center">
 
 <a href="https://www.hackerrank.com/profile/sakshikhare2006">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
+
+</p>
+
+---
+
+## 🏆 HackerRank Skills  
+
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C++-2EC866?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
 </p>
 
@@ -95,17 +109,25 @@ Aspiring Web Developer | DSA Learner | Passionate Coder 🚀
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-khare&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-khare&show_icons=true&theme=tokyonight&cache_seconds=60" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-khare&layout=compact&theme=tokyonight" />
 
 </p>
 
 ---
+
+## 📈 Contribution Graph   
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-khare&theme=tokyo-night" />
+
+</p>
 
 ## 🌟 Quote
 
