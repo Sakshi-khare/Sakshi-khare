@@ -1,0 +1,114 @@
+<h1 align="center">Hi 👋, I'm Sakshi Khare</h1>
+
+<h3 align="center">
+Aspiring Web Developer | DSA Learner | Passionate Coder 🚀
+</h3>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;DSA+Learner;JavaScript+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+---
+
+## 🚀 About Me
+
+* 🎓 Currently in 2nd year, improving my technical skills
+* 💻 Started programming with **C language**
+* ⚡ Familiar with **C++, Java, Python**
+* 🌱 Currently learning **Data Structures & Algorithms from scratch**
+* 🌐 Completed **HTML, CSS, JavaScript** and learning **React.js**
+* 🔥 Focusing on improving **JavaScript skills**
+* 🗄️ Basic knowledge of **MySQL Database**
+
+---
+
+## 🧠 Coding Profiles
+
+<p align="center">
+
+<a href="https://www.hackerrank.com/profile/sakshikhare2006">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🏆 HackerRank Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C++-Badge-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Java-Badge-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/C-Language-Badge-lightgrey?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🎮 Projects
+
+### 🐍 Snake Game
+
+* Built using HTML, CSS, JavaScript
+* Focused on game logic and DOM manipulation
+
+### ❌⭕ Tic Tac Toe
+
+* Simple interactive game
+* Strengthened JavaScript fundamentals
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sakshi-khare-4854b1222/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:sakshikhare2006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
+
+---
+
+## 🚀 Current Focus
+
+* 📚 Learning Data Structures & Algorithms
+* ⚛️ Exploring React.js
+* 💻 Building more real-world projects
+* 🚀 Improving problem-solving skills
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-khare&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-khare&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🌟 Quote
+
+> "Consistency is more important than perfection."
+
+---
