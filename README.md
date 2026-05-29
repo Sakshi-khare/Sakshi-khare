@@ -38,8 +38,6 @@ Aspiring Web Developer | DSA Learner | Passionate Coder 🚀
 ---
 
 ## 🏆 HackerRank Skills  
-
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/C++-2EC866?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -48,17 +46,17 @@ Aspiring Web Developer | DSA Learner | Passionate Coder 🚀
 
 </p>
 
+
+
 ---
 ## 🏆 HackerRank Badges
 
 <p align="center">
-
-<img src="https://hrcdn.net/fcore/assets/badges/cpp-739b350881.svg" width="120" />
-
-<img src="https://hrcdn.net/fcore/assets/badges/java-9d05b1f559.svg" width="120" />
-
-<img src="https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg" width="120" />
-
+  <img src="https://hrcdn.net/fcore/assets/badges/cpp-739b350881.svg" width="90"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://hrcdn.net/fcore/assets/badges/java-9d05b1f559.svg" width="90"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg" width="90"/>
 </p>
 
 
