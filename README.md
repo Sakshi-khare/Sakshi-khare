@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sakshi Khare</h1>
 
-<h3 align="center">
-Aspiring Web Developer | DSA Learner | Passionate Coder 🚀
-</h3>
-
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;DSA+Learner;JavaScript+Enthusiast;Always+Learning+New+Things" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=SAKSHI+KHARE;Web+Developer;Learning+DSA" />
+
 </p>
 
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sakshi-khare&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
+
+</p>
 ---
 
 ## 🚀 About Me
