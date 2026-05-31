@@ -56,7 +56,7 @@ Aspiring Web Developer | DSA Learner | Passionate Coder 🚀
   &nbsp;&nbsp;&nbsp;
   <img src="https://hrcdn.net/fcore/assets/badges/java-9d05b1f559.svg" width="90"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg" width="90"/>
+  <img src="https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg" width="70"/>
 </p>
 
 
