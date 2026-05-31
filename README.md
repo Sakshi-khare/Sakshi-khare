@@ -108,26 +108,27 @@ Aspiring Web Developer | DSA Learner | Passionate Coder 🚀
 * 🚀 Improving problem-solving skills
 
 ---
-
-## 📊 GitHub Stats 
+## 📊 Activity & Coding Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-khare&show_icons=true&theme=tokyonight&cache_seconds=60" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-khare&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-khare&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Sakshi-khare&theme=radical&hide_border=true" />
 
 </p>
 
 ---
 
-## 📈 Contribution Graph   
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-khare&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-khare&theme=react-dark&hide_border=true" />
 
 </p>
+
+
 
 ## 🌟 Quote
 
