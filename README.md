@@ -39,6 +39,18 @@
 <a href="https://www.hackerrank.com/profile/sakshikhare2006">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
+<a href="https://leetcode.com/u/_sakshii_khare/">
+  <img src="https://img.shields.io/badge/LeetCode-Starting-Soon-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/sakshikhare31">
+  <img src="https://img.shields.io/badge/GFG-Exploring-green?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.codechef.com/users/sakshii_31">
+  <img src="https://img.shields.io/badge/CodeChef-Learning-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
 
 </p>
 
