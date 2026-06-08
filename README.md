@@ -8,10 +8,7 @@
 
 </p>
 
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
----
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sakshi-khare&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
