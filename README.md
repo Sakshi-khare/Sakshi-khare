@@ -13,7 +13,7 @@
 </p>
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sakshi-khare&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Sakshi-khare&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 ---
 </p>
