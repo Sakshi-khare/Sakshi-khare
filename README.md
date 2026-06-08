@@ -11,10 +11,11 @@
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
+---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sakshi-khare&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Sakshi-khare&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" />
 </p>
-
+---
 </p>
 ---
 
