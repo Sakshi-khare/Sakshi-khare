@@ -14,7 +14,9 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sakshi-khare&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
+
+  <img src="https://komarev.com/ghpvc/?username=Sakshi-khare&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
 
 </p>
 ---
