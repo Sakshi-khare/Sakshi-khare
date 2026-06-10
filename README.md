@@ -12,9 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sakshi-khare&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
----
-</p>
----
+
 
 ## 🚀 About Me
 
@@ -47,13 +45,20 @@
   <img src="https://img.shields.io/badge/CodeChef-8A2BE2?style=for-the-badge"/>
 </a>
 
+---
+
+## 📚 DSA Journey
+
+<p align="center">
+
+<a href="https://takeuforward.org/profile/sakshii_khare">
+  <img src="https://img.shields.io/badge/TakeUForward-Striver%20A2Z%20DSA-blueviolet?style=for-the-badge"/>
+</a>
+
 </p>
 
-
-
-
-
-
+<p align="center">
+🚀 Currently solving Striver's A2Z DSA Sheet
 </p>
 
 ---
