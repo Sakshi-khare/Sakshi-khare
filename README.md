@@ -108,7 +108,7 @@
 
 ## 🎮 Projects
 
-### 🐍 Snake Game
+### 🐍 Snake Game ( https://github.com/Sakshi-khare/Snake_Game_Project )
 
 * Built using HTML, CSS, JavaScript
 * Focused on game logic and DOM manipulation
