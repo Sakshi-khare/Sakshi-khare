@@ -89,9 +89,13 @@
 ---
 ## 🎓 Certifications
 
-* **HackerRank: Java (Basic)** 
-  * [Verify Credential](https://www.hackerrank.com/certificates/9372b245e53e)
-  * *Skills verified:* Java Core, Basic Data Structures, Object-Oriented Programming (OOPs)
+<p align="left">
+  <a href="https://www.hackerrank.com/certificates/9372b245e53e">
+    <img src="https://img.shields.io/badge/HackerRank-Java_(Basic)-2EC460?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+* **Skills verified:** Core Java, Object-Oriented Programming (OOPs), Exception Handling, Basic Data Structures
 ---
 
 ## 🛠 Tech Stack
