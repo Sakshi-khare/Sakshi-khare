@@ -113,7 +113,7 @@
 * Built using HTML, CSS, JavaScript
 * Focused on game logic and DOM manipulation
 
-### ❌⭕ Tic Tac Toe
+### ❌⭕ Tic Tac Toe ( https://github.com/Sakshi-khare/TIC_TAC_TOE )
 
 * Simple interactive game
 * Strengthened JavaScript fundamentals
