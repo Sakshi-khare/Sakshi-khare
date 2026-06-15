@@ -150,7 +150,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sakshi-khare&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
-<img src="https://streak-stats.demolab.com?user=Sakshi-khare&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-khare&layout=compact&theme=radical&hide_border=true" />
 
 </p>
 
