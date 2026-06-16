@@ -14,15 +14,12 @@
 </p>
 
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-* 🎓 Currently in 2nd year, improving my technical skills
-* 💻 Started programming with **C language**
-* ⚡ Familiar with **C++, Java, Python**
-* 🌱 Currently learning **Data Structures & Algorithms from scratch**
-* 🌐 Completed **HTML, CSS, JavaScript** and learning **React.js**
-* 🔥 Focusing on improving **JavaScript skills**
-* 🗄️ Basic knowledge of **MySQL Database**
+🎓 2nd Year Student  
+💻 Self-learning DSA  
+🌐 Web Development journey  
+🚀 Focused on consistency & growth  
 
 ---
 
