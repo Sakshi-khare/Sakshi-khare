@@ -135,11 +135,9 @@
 
 ## 🚀 Current Focus
 
-* 📚 Learning Data Structures & Algorithms
-* ⚛️ Exploring React.js
-* 💻 Building more real-world projects
+* 📚 Learning Data Structures & Algorithm
 * 🚀 Improving problem-solving skills
-
+* 
 ---
 ## 📊 Activity & Coding Stats
 
