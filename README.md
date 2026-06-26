@@ -95,16 +95,6 @@
 * **Skills verified:** Core Java, Object-Oriented Programming (OOPs), Exception Handling, Basic Data Structures
 * 
 ---
-## 🏆 Hackathon
-
-This project was developed as part of **HackerRank Orchestrate 2026**, my first AI hackathon.
-
-Certificate
-
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/daa5f779-6f2b-48c4-97bc-5f6e712ccf1d" />
-
-
-
 
 ## 🛠 Tech Stack
 
