@@ -101,7 +101,7 @@ This project was developed as part of **HackerRank Orchestrate 2026**, my first 
 
 Certificate
 
-<img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/daa5f779-6f2b-48c4-97bc-5f6e712ccf1d" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/daa5f779-6f2b-48c4-97bc-5f6e712ccf1d" />
 
 
 
