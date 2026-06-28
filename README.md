@@ -95,6 +95,18 @@
 * **Skills verified:** Core Java, Object-Oriented Programming (OOPs), Exception Handling, Basic Data Structures
 * 
 ---
+## 🏆 Hakathon
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sakshi-khare/Sakshi-khare/main/assets/hackerrank-orchestrate-certificate.png"
+       alt="HackerRank Orchestrate Certificate"
+       width="900">
+</p>
+
+<p align="center">
+  <b>🏅 HackerRank Orchestrate (June 2026)</b><br>
+  Final Rank: <b>#930</b> out of <b>1,773</b> participants
+</p>
 
 ## 🛠 Tech Stack
 
