@@ -103,10 +103,6 @@
        width="900">
 </p>
 
-<p align="center">
-  <b>🏅 HackerRank Orchestrate (June 2026)</b><br>
-  Final Rank: <b>#930</b> out of <b>1,773</b> participants
-</p>
 
 ## 🛠 Tech Stack
 
